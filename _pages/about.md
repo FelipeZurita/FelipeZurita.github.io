@@ -2,23 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ingenieriabiologicaymedica.uc.cl/en/'>Institute for Biological and Medical Engineering, PUC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a young student interested in (1) understanding the human body through mathematics and physics and (2) understanding the mathematics and physics that arises from study of the human body. I'm currently an MSc. student at the [Computational Medicine Group](https://github.com/comp-medicine-uc) of the [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) (PUC), under the supervision of Dr. Daniel E. Hurtado. We are a part of the [Institute for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/en/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Aside from research and teaching, I greatly enjoy critical music listening, gaming, hiking and bikepacking.
