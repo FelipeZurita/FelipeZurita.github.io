@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Small description.
+description: My research has (up until now) been focused on computational medicine.
 nav: true
 nav_order: 2
 ---
