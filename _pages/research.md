@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: My research has (up until now) been focused on computational medicine.
+description: I have done research on financial economics and game theory. Recently, I focused on natural disasters and welfare economics.
 nav: true
 nav_order: 2
 ---

@@ -7,4 +7,22 @@ nav: true
 nav_order: 2
 ---
 
-This is where my assistantships will go.
+Over the years I have taught the following courses:
+
+** Undergraduate level **
+
+Microeconomics I
+
+Microeconomics II _new version_
+
+Microeconomics II _old version_
+
+Topics on Applied Microeconomics
+
+
+
+** Graduate level **
+
+Microeconomic Theory II
+
+Financial Economics

@@ -15,4 +15,4 @@ social: false  # includes social icons at the bottom of the page
 
 Hi there! 
 
-I'm a academic economist interested in understanding human welfare and implications for public policy.
+I'm a academic economist interested in understanding human welfare and its implications for public policy.
