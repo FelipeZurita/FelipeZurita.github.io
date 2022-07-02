@@ -9,20 +9,20 @@ nav_order: 2
 
 Over the years I have taught the following courses:
 
-** Undergraduate level **
+##Undergraduate level
 
-Microeconomics I
+**Microeconomics I**
 
-Microeconomics II _new version_
+**Microeconomics II** _new version_
 
-Microeconomics II _old version_
+**Microeconomics II** _old version_
 
-Topics on Applied Microeconomics
+**Topics on Applied Microeconomics**
 
 
 
-** Graduate level **
+##Graduate level
 
-Microeconomic Theory II
+**Microeconomic Theory II**
 
-Financial Economics
+**Financial Economics**
