@@ -9,7 +9,7 @@ nav_order: 2
 
 Over the years I have taught the following courses:
 
-##Undergraduate level
+## Undergraduate level
 
 **Microeconomics I**
 
