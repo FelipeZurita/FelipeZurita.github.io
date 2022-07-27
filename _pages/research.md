@@ -7,20 +7,25 @@ nav: true
 nav_order: 2
 ---
 
-<span style="color:blue">*Welfare from an interdisciplinary perspective* text</span>
+##<span style="color:yellow">**Welfare from an interdisciplinary perspective**</span>
 
 ### Fraternity and social welfare
 _with Cristián Hodge, Antonia Rosati and Camila Joustra_
 
 ### Concepts of the common good and efficiency
-** with Gonzalo Edwards and Cristián Hodge **
+_with Gonzalo Edwards and Cristián Hodge_
 
-# Natural disasters
+<span style="color:yellow;">**Natural disasters**</span>
 
-** Natural disasters: The economic viewpoint ** 
+**Probabilistic seismic risk assessment for cities: A Chilean case study**
+_with Omar Bello, Jorge Crempien, Monserrat Damian, Rosita Jünemann, Alejandro Urrutia, Oscar Ortiz_
+
+**Natural disasters: The economic viewpoint** 
 ### with Omar Bello and Lucía Langlois
 This is a survey of the literature on the modelling of the economic effects of natural disasters.
 
-** A network model of interurban freight flows **
+**A network model of interurban freight flows**
 ### with Lucía Langlois, Eduardo Allen, Constanza Fosco, Tomás Echaveguren, and Alondra Chamorro
 We derive a freight origin-destination matrix from data on employment, aggregate production, and international trade.
+
+
