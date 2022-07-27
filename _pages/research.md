@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /research/
-title: ongoing research projects
+title: research
 description: In the past, I have done research on financial economics and game theory. Recently, I focused on natural disasters and welfare economics.
 nav: true
 nav_order: 2
 ---
 
-# Welfare from an interdisciplinary perspective
+<span style="color:blue">*Welfare from an interdisciplinary perspective* text</span>
 
 ### Fraternity and social welfare
-** with Cristián Hodge, Antonia Rosati and Camila Joustra **
+_with Cristián Hodge, Antonia Rosati and Camila Joustra_
 
 ### Concepts of the common good and efficiency
 ** with Gonzalo Edwards and Cristián Hodge **
