@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://ingenieriabiologicaymedica.uc.cl/en/'>Institute for Biological and Medical Engineering, PUC</a>.
 

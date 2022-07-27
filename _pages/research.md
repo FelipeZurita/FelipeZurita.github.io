@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: In the past, I have done research on financial economics and game theory. Recently, I focused on natural disasters and welfare economics.
 nav: true
-nav_order: 2
+nav_order: 2 
 ---
 
 <span style='color:yellow'>**Welfare from an interdisciplinary perspective**</span>
