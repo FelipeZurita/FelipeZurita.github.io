@@ -7,7 +7,7 @@ nav: true
 nav_order: 2 
 ---
 
-<span style='color:yellow'>**Welfare from an interdisciplinary perspective**</span>
+<font color=#fcba03>**Welfare from an interdisciplinary perspective**</font>
 
 ### Fraternity and social welfare
 _with Cristián Hodge, Antonia Rosati and Camila Joustra_
