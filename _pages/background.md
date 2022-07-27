@@ -7,12 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-## Education
+## employment
 
-**Ph.D. in Economics** - _University of California, Los Angeles_ (1998)
-Thesis supervised by David K. Levine  
+**Associate professor**, _Pontificia Universidad Católica de Chile_
+
+## education
+
+**Ph.D. in Economics** - University of California, Los Angeles (1998).
 
 
-
-**BSc. in Economics** - _Universidad de Chile_ (1990)  
+**BSc. in Economics** - _Universidad de Chile_ (1990).
 
