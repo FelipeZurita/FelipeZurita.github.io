@@ -7,7 +7,7 @@ nav: true
 nav_order: 2 
 ---
 
-###Welfare from an interdisciplinary perspective
+### <span style="color:yellow">Welfare, from an interdisciplinary perspective</span>
 
 **Fraternity and social welfare**
 _with Cristián Hodge, Antonia Rosati and Camila Joustra_
@@ -15,7 +15,7 @@ _with Cristián Hodge, Antonia Rosati and Camila Joustra_
 **Concepts of the common good and efficiency**
 _with Gonzalo Edwards and Cristián Hodge_
 
-###<span style="color:yellow">Natural disasters</span>
+### <span style="color:yellow">Natural disasters</span>
 
 **Probabilistic seismic risk assessment for cities: A Chilean case study**
 _with Omar Bello, Jorge Crempien, Monserrat Damian, Rosita Jünemann, Alejandro Urrutia, Oscar Ortiz_

@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here you'll find my teaching activities and some materials related to them.
+description: Over the years I have taught different courses on microeconomics. Here you will find some materials (in Spanish).
 nav: true
 nav_order: 2
 ---
 
-Over the years I have taught the following courses:
+
 
 ## Undergraduate level
 
@@ -21,7 +21,7 @@ Over the years I have taught the following courses:
 
 
 
-##Graduate level
+## Graduate level
 
 **Microeconomic Theory II**
 
