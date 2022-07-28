@@ -7,15 +7,15 @@ nav: true
 nav_order: 2 
 ---
 
-**<font color=#fcba03>Welfare from an interdisciplinary perspective</font>**
+###Welfare from an interdisciplinary perspective
 
-### Fraternity and social welfare
+**Fraternity and social welfare**
 _with Cristián Hodge, Antonia Rosati and Camila Joustra_
 
-### Concepts of the common good and efficiency
+**Concepts of the common good and efficiency**
 _with Gonzalo Edwards and Cristián Hodge_
 
-<span style="color:yellow">**Natural disasters**</span>
+###<span style="color:yellow">Natural disasters</span>
 
 **Probabilistic seismic risk assessment for cities: A Chilean case study**
 _with Omar Bello, Jorge Crempien, Monserrat Damian, Rosita Jünemann, Alejandro Urrutia, Oscar Ortiz_
@@ -26,6 +26,6 @@ This is a survey of the literature on the modelling of the economic effects of n
 
 **A network model of interurban freight flows**
 _with Lucía Langlois, Eduardo Allen, Constanza Fosco, Tomás Echaveguren, and Alondra Chamorro_
-We derive a freight origin-destination matrix from data on employment, aggregate production, and international trade.
+<br>We derive a freight origin-destination matrix from data on employment, aggregate production, and international trade.
 
 
