@@ -2,12 +2,12 @@
 layout: page
 permalink: /research/
 title: Research
-description: In the past, I have done research on financial economics and game theory. Recently, I focused on natural disasters and welfare economics.
+description: In the past, I have done research on financial economics and applications of game theory. Recently, I focused on natural disasters and welfare economics.
 nav: true
 nav_order: 2 
 ---
 
-### <span style="color:yellow">Political economy perspective</span>
+### <span style="color:yellow">Political economy </span>
 
 **Corruption and electoral accountability**
 
@@ -23,9 +23,13 @@ _with Cristián Hodge, Antonia Rosati and Camila Joustra_
 
 **Concepts of the common good and efficiency**
 
-_with Gonzalo Edwards and Cristián Hodge_
+_with Fernando Arancibia, Gonzalo Edwards and Cristián Hodge_
 
 ### <span style="color:yellow">Natural disasters</span>
+
+**Pricing catastrophic risks**
+
+_with Rodrigo Cienfuegos, Jorge Crempien, Rosita Jünemann, Pablo Heresi, and Alejandro Urrutia_
 
 **Probabilistic seismic risk assessment for cities: A Chilean case study**
 
