@@ -9,7 +9,7 @@ nav_order: 2
 
 ## employment
 
-I teach and conduct research in economics at the _Pontificia Universidad Católica de Chile_ since 1998.
+I teach and conduct research in economics at _Pontificia Universidad Católica de Chile_ since 1998.
 
 ## education
 
