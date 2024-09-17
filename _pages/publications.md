@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Publications I've worked on.
-years: [2021,2017,2015,2011,2010,2009,2008,2005,2004,2001]
+years: [2023,2021,2017,2015,2011,2010,2009,2008,2005,2004,2001]
 nav: true
 nav_order: 2
 ---
