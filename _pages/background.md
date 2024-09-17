@@ -13,8 +13,8 @@ I teach economics at the _Pontificia Universidad Católica de Chile_ since 1998.
 
 ## education
 
-**Ph.D. in Economics** - University of California, Los Angeles (1998).
+**Ph.D. in Economics** - University of California, Los Angeles (UCLA), USA (1998).
 
 
-**B.A. in Economics** - _Universidad de Chile_ (1990).
+**B.A. in Economics** - _Universidad de Chile_, Chile (1990).
 
